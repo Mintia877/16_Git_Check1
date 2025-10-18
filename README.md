@@ -8,7 +8,7 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-<details><summary>Tips for collapsed sections</summary>### You can add a header
+<details open><summary>Tips for collapsed sections</summary>### You can add a header
 
 You can add text within a collapsed section.
 
