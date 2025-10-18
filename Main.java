@@ -7,5 +7,6 @@ public class Main {
   public static void main(String[] args) {
 
     System.out.println("これはGitHubの課題提出用です。");
+    System.out.println("追加項目はここです。");
   }
 }
